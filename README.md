@@ -7,7 +7,6 @@ Swing
 
 A desktop-based Student Management System built with Java Swing and MySQL, designed to streamline student record-keeping for schools, colleges, and training institutes.
 
-✨ Live Demo (if available) | 📥 Download JAR (if applicable)
 
 🚀 Key Features
 ✅ CRUD Operations – Add, view, update, and delete student records effortlessly.
