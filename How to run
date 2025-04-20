@@ -1,0 +1,48 @@
+Step 1: Import the Project
+Download and extract the Student.zip file.
+
+Import the project into your preferred Java IDE (Eclipse, IntelliJ, etc.).
+
+Step 2: Understand the Code & Database
+Review the entire codebase carefully.
+
+Ensure you have a good understanding of Java Swing and core Java programming.
+
+Analyze how the database is structured (tables, relationships, queries).
+
+Step 3: Navigate to VIP Section
+Locate the vip.java file (or relevant package).
+
+Understand its role in the system (likely admin/privileged functions).
+
+Step 4: Set Up the Database
+Check the database configuration in the code (likely MySQL or similar).
+
+Create a database with the exact name specified in the code.
+
+Ensure tables and schema match the project requirements.
+
+Step 5: Add Required Libraries
+SQL Connector JAR (e.g., mysql-connector-java-x.x.xx.jar).
+
+jDateChooser JAR (for date picker functionality).
+
+Download these JARs if missing (links may be provided in the project docs).
+
+Add them to the project’s lib folder and configure the build path.
+
+Step 6: Run the Main Interface
+Open Student.java (or the main class).
+
+Remove the comment on the main method (if it’s commented out).
+
+Run the program to launch the GUI interface.
+
+Additional Notes
+If errors occur, verify:
+
+Database credentials in the code.
+
+Correct JAR files are linked.
+
+All dependencies are resolved.
