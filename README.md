@@ -14,7 +14,7 @@ A desktop-based Student Management System built with Java Swing and MySQL, desig
 ✅ Database Integration – Securely stores data in MySQL for easy retrieval.
 ✅ User-Friendly GUI – Intuitive forms with validation and jDateChooser for dates.
 ✅ Search & Filters – Quickly find students by ID, name, or course.
-✅ VIP/Admin Mode – Special privileges for advanced management (if applicable).
+✅ VIP/Admin Mode – Special privileges for advanced management .
 
 🛠️ Technologies Used
 Frontend: Java Swing
@@ -56,7 +56,7 @@ Link mysql-connector-java-x.x.xx.jar and jcalendar-1.4.jar to your project.
 
 Run the Application
 
-Execute Student.java (uncomment main if needed).
+Execute Student.java .
 
 🖼️ Screenshots (if available)
 ![Login interface](https://github.com/user-attachments/assets/9a92d666-e665-44a0-b93b-322fff9cfcd1)
